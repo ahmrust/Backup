@@ -35,12 +35,8 @@
 
  
 ```
-Поле для вставки кода...
-....
-....
 ```
-
-![alt text](ссылка на скриншот 1)
+![alt text](https://github.com/ahmrust/Backup/blob/main/img/1.png)
 
 ---
 
