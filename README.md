@@ -75,7 +75,8 @@
 # 
 # m h  dom mon dow   command
 0 0 * * * /home/vboxuser/backup.sh
-`````
+
+```
 
 `backup.sh`
 
@@ -95,9 +96,9 @@ else
     echo "[$(date)] Ошибка при выполнении резервного копирования" >> /var/log/backup.log
 fi
 
-``````
-![alt text](https://github.com/ahmrust/Backup/blob/main/img/2.png)
 
+![alt text](https://github.com/ahmrust/Backup/blob/main/img/2.png)
+``````
 ---
 
 ### Задания со звёздочкой*
